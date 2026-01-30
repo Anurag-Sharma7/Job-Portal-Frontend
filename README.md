@@ -1,20 +1,47 @@
-# Hire Nepal
+Hire India – Job Portal Web Application
 
-A Job Portal Website that connects job seekers with employers. It includes NLP powered Job Matching and Applicant Ranking System.
+Hire India is a full-stack job portal web application designed to simplify and modernize the hiring process by connecting job seekers with employers.
+The platform provides intelligent job recommendations, resume parsing, and applicant ranking to make recruitment faster and more effective.
 
-## Features
-### Employer Perspective
-- **Automated Resume Parsing and Ranking**: The Applicant Ranking System (ARS) parses resumes in PDF format, extracts key information, and ranks candidates based on weighted criteria set by employers, reducing the time and potential bias of manual screening.
+✨ Key Highlights
 
-- Employer Dashboard: Manage your job postings and applicants from a single platform.
-- Applicant Tracking: Track the status of each application during your hiring process.
+Real-world job portal workflow (Employer + Job Seeker)
 
-### Seeker Perspective
-- **Intelligent Job Matching**: The system analyzes user profiles and skills to provide job seekers with personalized recommendations for relevant job openings.
-- Job Listings: Browse through the latest job postings from top companies in Nepal.
-- Easy Apply: Apply for a job with just a few clicks.
-- Resume Generator: Generate a professional resume tailored to the job you are applying for.
-- Cover Letter Generator: Generate a personalized cover letter to accompany your resume.
+Intelligent applicant ranking and job matching
+
+Resume and cover letter generation
+
+Clean, responsive, production-style UI
+
+🚀 Features
+👔 Employer Module
+
+Applicant Ranking System
+Automatically ranks candidates based on skills, experience, and job relevance.
+
+Resume Parsing
+Extracts structured information from uploaded PDF resumes.
+
+Employer Dashboard
+Create, manage, and monitor job postings.
+
+Applicant Tracking
+Track application status throughout the hiring lifecycle.
+
+👨‍💼 Job Seeker Module
+
+Smart Job Recommendations
+Personalized job suggestions based on user profile and skills.
+
+Job Listings & Job Details
+
+Easy Apply
+Apply to jobs with minimal steps.
+
+Resume Builder
+
+Cover Letter Generator
+
 
 ## Technologies Used
 - **Front-end:** React.js
